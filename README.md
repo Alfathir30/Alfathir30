@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Bharat Verma 👋
+# Hey there, I'm Alif Marvel 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=650&lines=Senior+Engineering+Manager+%40+Razorpay;15%2B+Years+in+Backend+%26+Distributed+Systems;Building+High-Scale+Payment+Platforms;Leading+Teams+%7C+Architecting+Solutions)](https://git.io/typing-svg)
 
