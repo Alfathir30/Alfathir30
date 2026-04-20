@@ -1,313 +1,122 @@
 <div align="center">
 
-# Hey there, I'm Alif Marvel 👋
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=650&lines=Senior+Engineering+Manager+%40+Razorpay;15%2B+Years+in+Backend+%26+Distributed+Systems;Building+High-Scale+Payment+Platforms;Leading+Teams+%7C+Architecting+Solutions)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alif+Marvel+%F0%9F%91%8B;TKJ+Student+%40+SMK+Vinama+2;Web+Dev+%26+DevOps+Enthusiast;Building+things+from+scratch" alt="Typing SVG" />
 
-![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social) [![LinkedIn](https://img.shields.io/badge/-Bharat%20Verma-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bharatverma) [![Twitter](https://img.shields.io/badge/-@iAmBharatv-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iambharatv)
+  <br/>
+
+  <p align="center">
+    <a href="https://instagram.com/Al.marvel_" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/alfathir30" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=alfathir30&style=for-the-badge&color=7c3aed&label=VISITORS"/>
+  </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"/>
 
-```yaml
-name: Alif Marvel
-location: Bekaswis, Indonesia
-current_role: 
-experience: 2+ years
-domains:
-  - Fintech & Payment Systems 💰
-  - Distributed Systems & Microservices 🌐
-  - Cloud-Native Platforms 🌐
-  - Engineering Leadership 🚀
-currently_working_on:
-  - Cards Recurring & E-Mandate Platform (15K TPS, ₹600-900 Cr/day volume) 💳
-  - Cards Growth initiatives (pay with partners project) 💰
-  - Re-architecting legacy systems to scalable microservices 🌐
-learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
+### 👤 About Me
+
+```ts
+const vel = {
+  name     : "Alif Marvel Al-Fathir",
+  alias    : "vel",
+  school   : "SMK Vinama 2 — TKJ",
+  location : "Bekasi, Indonesia 🇮🇩",
+  focus    : ["Web Development", "DevOps", "Linux"],
+  hobbies  : ["Coding", "Gaming", "Manhwa", "Movies"],
+  goals    : "Become a competent full-stack developer",
+  coffee   : true,
+};
 ```
 
-## 💼 Professional Journey
-
-| Role                               | Company              | Period              | Scale                         |
-| ---------------------------------- | -------------------- | ------------------- | ----------------------------- |
-| **Senior Engineering Manager**     | Razorpay 💳          | Mar 2025 – Present  | 21 engineers, 3 pods, 15K TPS |
-| **Director, Software Engineering** | Guidepoint Global 🌐 | Jun 2023 – Feb 2025 | India Engineering Pods        |
-| **Engineering Manager**            | Acquia ☁️            | Feb 2021 – Jun 2023 | Cloud Data & Migrations       |
-| **Tech Lead & EM**                 | MobiKwik 💰          | Nov 2016 – Feb 2021 | Built teams 0→12, 40+ hires   |
-| **Staff Engineer**                 | ShopClues 🛒         | Sep 2015 – Nov 2016 | Catalogue Platform Lead       |
-| **Senior Engineer**                | InfoEdge (Naukri) 📋 | Nov 2011 – May 2015 | Platform Modernization        |
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technology Stack
-
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
-  </a>
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go-lang"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell"/>
-  </a>
-</p>
-
-<h3 align="center">Backend & Frameworks</h3>
-<p align="center">
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" />
-  </a>
-  <a href="https://hibernate.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate" />
-  </a>
-  <a href="https://echo.labstack.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Echo_(Go)-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="echo" />
-  </a>
-  <a href="https://symfony.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="symfony" />
-  </a>
-</p>
-
-<h3 align="center">Databases & Caching</h3>
-<p align="center">
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  </a>
-  <a href="https://cassandra.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" alt="cassandra"/>
-  </a>
-  <a href="https://redis.io" target="_blank">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
-  </a>
-  <a href="https://www.elastic.co" target="_blank">
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch"/>
-  </a>
-</p>
-
-<h3 align="center">Message Queues & Streaming</h3>
-<p align="center">
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka" />
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" />
-  </a>
-  <a href="https://aws.amazon.com/sqs/" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white" alt="sqs" />
-  </a>
-</p>
-
-<h3 align="center">Cloud & Infrastructure</h3>
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="aws"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
-  </a>
-</p>
-
-<h3 align="center">DevOps & CI/CD</h3>
-<p align="center">
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github-actions"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
-  </a>
-  <a href="https://argoproj.github.io/cd/" target="_blank">
-    <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="argocd"/>
-  </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  </a>
-</p>
-
-<h3 align="center">Observability & Monitoring</h3>
-<p align="center">
-  <a href="https://www.datadoghq.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="datadog"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
-  </a>
-  <a href="https://prometheus.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus"/>
-  </a>
-  <a href="https://opentelemetry.io/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="opentelemetry"/>
-  </a>
-</p>
-
----
-
-## 🎯 Leadership Focus Areas
+### 🛠️ Tech Stack
 
 <div align="center">
 
-|       👥 People        |   🏗️ Architecture    |     📈 Delivery     |
-| :--------------------: | :------------------: | :-----------------: |
-|     Team Building      |    Microservices     |     SLI/SLO/SLA     |
-|   Hiring & Mentoring   |     Cloud-Native     | Incident Management |
-| Performance Management | Platform Reliability |  Cost Optimization  |
-| Organizational Design  |  Payments & Fintech  |  CI/CD Excellence   |
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+
+**DevOps & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+### 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alfathir30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfathir30&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+</div>
 
-<a href="https://linkedin.com/in/bharatverma" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="https://twitter.com/iambharatv" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-</a>
-<a href="https://dev.to/bindian0509" target="_blank">
-  <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto"/>
-</a>
-<a href="https://bharatv90s.medium.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
-</a>
-<a href="https://bharatv.hashnode.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfathir30&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
+</div>
 
-<br/>
-
-<a href="https://leetcode.com/bindian0509/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
-</a>
-<a href="https://stackoverflow.com/users/723817/bharat" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"/>
-</a>
-<a href="https://github.com/bindian0509" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-</a>
-<a href="https://gitlab.com/bindian0509" target="_blank">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/>
-</a>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfathir30&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="98%"/>
 </div>
 
 ---
 
-## 📬 Reach Me
+### 🎵 Spotify — Now Playing
 
 <div align="center">
-
-<a href="mailto:bharatv@outlook.in?subject=Hello%20from%20GitHub&body=Hi%20Bharat," target="_blank">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email"/>
-</a>
-<a href="https://t.me/BIRD_PERSON_27" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
-</a>
-<a href="https://linktr.ee/bharatv" target="_blank">
-  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree"/>
-</a>
-
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=a78bfa&bar_color_cover=true" width="400"/>
+  </a>
 </div>
 
+> ⚠️ **Setup Spotify:** Daftar di [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com) → login Spotify → copy UID lo → ganti `YOUR_SPOTIFY_UID` di atas
+
 ---
 
-## 📊 GitHub Stats
+### 💬 Quote
 
 <div align="center">
 
-<a href="https://github.com/Alfathir30">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfathir30&theme=gruvbox" alt="GitHub Profile Summary"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Alfathir309">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alfathir30&theme=gruvbox" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/Alfathir30">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alfathir30&theme=gruvbox&utcOffset=5.5" alt="Productive Time"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Alfathir30">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alfathir30&theme=gruvbox" alt="Top Languages by Repo"/>
-</a>
-<a href="https://github.com/Alfathir30">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alfathir30&theme=gruvbox" alt="Top Languages by Commit"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Alfathir30">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alfathir30&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Alfathir30">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfathir30&theme=gruvbox&hide_border=true&area=true" alt="Activity Graph"/>
-</a>
-
-</div>
-
----
-
-## 💬 Ask Me About (Also for Interview Preparation Help)
-
-- **System Design** → Distributed systems, microservices, high-scale architectures
-- **Payment Systems** → Card payments, recurring transactions, PCI compliance
-- **Engineering Leadership** → Team building, hiring, performance management
-- **Tech Stack** → Java, Go, Spring Boot, Kubernetes, AWS, Kafka
-- **DevOps** → CI/CD pipelines, infrastructure as code, observability
-
----
-
-<div align="center">
-
-### 🌟 _"Building reliable payment systems that process billions while leading teams that scale."_
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=bindian0509&style=for-the-badge&color=blue" alt="Profile Views"/>
-
-**⭐ Star my repos if you find them useful!**
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The+best+way+to+learn+is+to+build+something+real.&author=vel" width="600"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Last updated: December 2025 | Pune, India 🇮🇳</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
 </div>
