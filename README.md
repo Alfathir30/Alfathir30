@@ -103,7 +103,7 @@ const vel = {
   </a>
 </div>
 
-> ⚠️ **Setup Spotify:** Daftar di [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com) → login Spotify → copy UID lo → ganti `YOUR_SPOTIFY_UID` di atas
+
 
 ---
 
