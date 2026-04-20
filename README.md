@@ -99,7 +99,7 @@ const vel = {
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fl3gi3qel53fglqmldxi6kmyua&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=a78bfa&bar_color_cover=true" width="400"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fl3gi3qel53fglqmldxi6kmyua&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=a78bfa&bar_color_cover=true" width="400"/>
   </a>
 </div>
 
